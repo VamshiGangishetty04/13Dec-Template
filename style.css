@@ -109,7 +109,7 @@ header{
     border-left: 6px solid #ccc ;
     padding: 16px;
     width: 800px;
-    margin-left: 400px;
+    margin-left: 30%;
     font-size: 1.2rem;
 }
 .container-3> :nth-child(1){
@@ -152,7 +152,7 @@ header{
     height: 1420px;
     text-align: center;
     /* border: 5px solid red; */
-    margin-left: 360px;
+    margin-left: 40%;
 }
 .boxmenu{
     width: 100%;
